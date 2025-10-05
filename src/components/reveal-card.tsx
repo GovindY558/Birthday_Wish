@@ -1,0 +1,76 @@
+
+"use client";
+
+import { useState, type ReactNode } from 'react';
+import { Gift } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { Card, CardContent } from '@/components/ui/card';
+import { cn } from '@/lib/utils';
+import { motion } from 'framer-motion';
+
+interface RevealCardProps {
+  coverContent: ReactNode;
+  children: ReactNode;
+  className?: string;
+  coverClassName?: string;
+  contentClassName?: string;
+}
+
+export function RevealCard({ coverContent, children, className, coverClassName, contentClassName }: RevealCardProps) {
+  const [isRevealed, setIsRevealed] = useState(false);
+
+  const handleReveal = () => {
+    setIsRevealed(true);
+  }
+
+  return (
+    <Card className={cn("w-full overflow-hidden shadow-lg bg-card/80 backdrop-blur-sm", className)}>
+      <div className="relative">
+        <div
+          className={cn(
+            "w-full transition-all duration-700 ease-in-out flex flex-col items-center justify-center text-center p-8",
+            coverClassName,
+            isRevealed ? 'max-h-0 opacity-0 p-0' : 'max-h-96 opacity-100 min-h-64'
+          )}
+          style={{ transition: 'max-height 0.7s ease-in-out, opacity 0.5s ease-in-out, padding 0.7s ease-in-out' }}
+        >
+          <div className="font-body text-muted-foreground mb-6">{coverContent}</div>
+          <motion.div
+            animate={{
+              boxShadow: [
+                "0 0 0 0 hsl(var(--primary) / 0.7)",
+                "0 0 0 10px hsl(var(--primary) / 0)",
+                "0 0 0 0 hsl(var(--primary) / 0)",
+              ],
+            }}
+            transition={{
+              duration: 2,
+              repeat: Infinity,
+              repeatDelay: 1,
+              ease: "easeInOut",
+            }}
+            className="rounded-md"
+          >
+            <Button onClick={handleReveal} size="lg" variant="default" className="shadow-lg">
+              <Gift className="mr-2 h-5 w-5" />
+              Click to Reveal
+            </Button>
+          </motion.div>
+        </div>
+
+        <div
+          className={cn(
+            "transition-all duration-1000 ease-in-out",
+            contentClassName,
+            isRevealed ? 'max-h-[2000px] opacity-100' : 'max-h-0 opacity-0'
+          )}
+          style={{ transition: 'max-height 1.5s ease-in-out, opacity 1s 0.5s ease-in-out' }}
+        >
+          <CardContent className="p-2 sm:p-4 md:p-6 flex flex-col items-center gap-4">
+            {children}
+          </CardContent>
+        </div>
+      </div>
+    </Card>
+  );
+}
