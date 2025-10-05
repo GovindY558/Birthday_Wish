@@ -33,12 +33,20 @@ const memories = [
     hint: "car road"
   },
   {
+    src: "/nowords.jpg",
+    alt: "A quiet moment together",
+    caption: "I have No Words",
+    date: "Meri Zindagi...!!",
+    hint: "beach sunset"
+  },
+  {
     src: "/new4.jpg",
     alt: "A quiet moment together",
     caption: "Beauty with Innocent Face",
     date: "Hay Mai Mar Javaan",
     hint: "beach sunset"
   },
+  
   {
     src: "/new6.jpg",
     alt: "A celebration of love",
@@ -50,8 +58,22 @@ const memories = [
     src: "/new3.jpg",
     alt: "A celebration of love",
     caption: "Ye Kali-Kali Ankhen",
-    date: "Meri Nagin Ji",
+    date: "Meri Nagin Ji,Kari-Kari Tohar Nayanvaa,Madam Ji Niharal Kari ",
     hint: "celebration toast"
+  },
+  {
+    src: "/gifted.jpg",
+    alt: "A quiet moment together",
+    caption: "Already given to You Dear",
+    date: "That Gift Was Made with my Heart & Soul",
+    hint: "beach sunset"
+  },
+  {
+    src: "/feet.jpg",
+    alt: "A quiet moment together",
+    caption: "Maaaaa",
+    date: "No Words For Your Respect",
+    hint: "beach sunset"
   },
 ];
 
