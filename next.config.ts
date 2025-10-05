@@ -1,9 +1,6 @@
 import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  output: 'export',             // static export
-  basePath: '/Birthday_Wish',   // GitHub Pages repo name
-  assetPrefix: './',            // relative paths fix CSS/JS
   typescript: { ignoreBuildErrors: true },
   eslint: { ignoreDuringBuilds: true },
   images: {
