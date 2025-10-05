@@ -14,7 +14,7 @@ export default function Home() {
       <PageHeader />
       <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 space-y-24">
         
-        <StorySection title="Welcome, My Love">
+        <StorySection title="Welcome, My Love...!">
             <div className="text-center font-body text-lg max-w-2xl mx-auto">
                 <p className="mb-8">This is a special space I’ve created just for you, to celebrate the beautiful occasion of your birthday. Every part of it tells a different story—each chapter reflecting a unique perspective of You.</p>
                 <p>Click the buttons below to begin your journey Babu...</p>
