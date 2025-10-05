@@ -5,45 +5,52 @@ import { motion } from 'framer-motion';
 
 const memories = [
   {
-    src: "/suit1_giftt1.jpg",
-    alt: "A cherished memory",
-    caption: "The Day We First Met",
-    date: "A beautiful spring afternoon",
+    src: "/new1.jpg",
+    alt: "Special For You",
+    caption: "Special For You",
+    date: "A beautiful spring after Evening",
     hint: "couple smiling"
   },
   {
-    src: "/sundari.jpg",
-    alt: "A special moment",
-    caption: "Our First Adventure",
-    date: "A memorable summer day",
+    src: "/suit1_giftt1.jpg",
+    alt: "A cherished memory",
+    caption: "A cherished memory",
+    date: "A memorable gift",
     hint: "mountain landscape"
   },
   {
-    src: "/img2.jpg",
+    src: "/new2.jpg",
     alt: "A happy occasion",
-    caption: "A Birthday Celebration",
-    date: "A cozy winter evening",
+    caption: "Also I want to gift this one",
+    date: "A Coffee with this gift",
     hint: "birthday cake"
   },
   {
-    src: "https://picsum.photos/seed/memory4/600/400.png",
+    src: "/new5.jpg",
     alt: "A fun trip",
-    caption: "Spontaneous Road Trip",
-    date: "An unforgettable autumn weekend",
+    caption: "Really, it was You Mam...",
+    date: "How Sweet Na Mam...",
     hint: "car road"
   },
   {
-    src: "https://picsum.photos/seed/memory5/600/400.png",
+    src: "/new4.jpg",
     alt: "A quiet moment together",
-    caption: "Watching the Sunset",
-    date: "Countless perfect evenings",
+    caption: "Beauty with Innocent Face",
+    date: "Hay Mai Mar Javaan",
     hint: "beach sunset"
   },
   {
-    src: "https://picsum.photos/seed/memory6/600/400.png",
+    src: "/new6.jpg",
     alt: "A celebration of love",
-    caption: "A Toast to the Future",
-    date: "Here's to many more memories",
+    caption: "Really,Looking Rose🌹",
+    date: "Gulab Ka Color Bhi Fika Hai",
+    hint: "celebration toast"
+  },
+  {
+    src: "/new3.jpg",
+    alt: "A celebration of love",
+    caption: "Ye Kali-Kali Ankhen",
+    date: "Meri Nagin Ji",
     hint: "celebration toast"
   },
 ];
