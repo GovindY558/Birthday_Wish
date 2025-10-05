@@ -15,14 +15,14 @@ const videos = [
   {
     id: 'special',
     title: "This Year's Special",
-    thumbnail: '/test.jpg',
+    thumbnail: '/sundari.jpg',
     hint: 'celebration video',
     src: 'https://www.youtube.com/embed/kAJZlXye-08?autoplay=1',
   },
   {
     id: 'lookback',
     title: 'A Look Back',
-    thumbnail: '/test.jpg',
+    thumbnail: '/new3.jpg',
     hint: 'montage memories',
     src: 'https://www.youtube.com/embed/nUDv5Z36y6Y?autoplay=1',
   },
@@ -30,7 +30,7 @@ const videos = [
   {
     id: 'lookback',
     title: 'It Was All For You Babe',
-    thumbnail: '/test.jpg',
+    thumbnail: '/new7.jpg',
     hint: 'montage memories',
     src: 'https://www.youtube.com/embed/8p7O_MjsbjM?autoplay=1',
   },
@@ -38,7 +38,7 @@ const videos = [
   {
     id: 'lookback',
     title: 'For My Bachha',
-    thumbnail: '/test.jpg',
+    thumbnail: '/new4.jpg',
     hint: 'montage memories',
     src: 'https://www.youtube.com/embed/gUPol59nlYM?autoplay=1',
   },
