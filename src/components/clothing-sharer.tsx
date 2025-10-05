@@ -98,7 +98,7 @@ const clothingItems = [
   {
     id: 'item_10',
     name: 'Special Gift',
-    images: ['/rishikesh.jfif'],
+    images: ['/bun.jpg'],
     hint: 'Rishikesh_Package',
     message: "This will be also a part of the gift as a one trip for you in - Rishikesh Adventure.",
     link: '#'
