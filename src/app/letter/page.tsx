@@ -26,7 +26,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Click to read my birthday wishes for you...</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="https://picsum.photos/seed/letter1/800/1067.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/red.jpg" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Every word in this letter comes straight from the heart. Happy B'Day Meri Himmat</p>
           </RevealCard>
@@ -37,7 +37,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">A special promise for the future...</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/test.jpg" alt="A rose and two polaroids as a promise" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="rose polaroids" />
+              <Image src="/pink.jpg" alt="A rose and two polaroids as a promise" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="rose polaroids" />
             </div>
             <p className="mt-4 text-center font-body text-lg max-w-prose">I'm keeping this rose safe. It's a promise of all the beautiful moments waiting for us. I'll give it to you the moment we're together again.</p>
           </RevealCard>
@@ -48,7 +48,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Something else that's waiting for you...</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="https://picsum.photos/seed/letter3/800/1067.png" alt="A small flower and two polaroids with a note" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="flower message" />
+              <Image src="/frame.jpg" alt="A small flower and two polaroids with a note" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="flower message" />
             </div>
             <p className="mt-4 text-center font-body text-lg max-w-prose">Just like the note in this photo says... this little flower is for my love. It's another piece of my heart that I'm holding onto for you..</p>
           </RevealCard>

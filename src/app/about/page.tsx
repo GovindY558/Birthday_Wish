@@ -22,7 +22,7 @@ export default function AboutPage() {
             </Link>
         </div>
 
-        <StorySection title="Our Story">
+        <StorySection title="Your & Mine">
             <Card className="bg-card/80 backdrop-blur-sm">
                 <CardContent className="p-8 md:p-12 space-y-8">
                     <div className="relative aspect-[2/1] w-full max-w-4xl mx-auto rounded-lg overflow-hidden shadow-lg">
