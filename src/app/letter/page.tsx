@@ -11,7 +11,7 @@ import { BackgroundMusic } from '@/components/background-music';
 export default function LetterPage() {
   return (
     <div className="flex flex-col min-h-dvh bg-background text-foreground">
-      <BackgroundMusic src="/music-placeholder-1.mp3" />
+      <BackgroundMusic src="/bdaymusic.mp3.mp3" />
       <PageHeader />
       <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 space-y-24">
         
