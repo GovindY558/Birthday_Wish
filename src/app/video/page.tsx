@@ -15,6 +15,13 @@ const videos = [
   {
     id: 'special',
     title: "This Year's Special",
+    thumbnail: '/frame.jpg',
+    hint: 'celebration video',
+    src: 'https://www.youtube.com/embed/Wj1KqVjCw9c?autoplay=1',
+  },
+  {
+    id: 'special',
+    title: "For You Khubsurti",
     thumbnail: '/sundari.jpg',
     hint: 'celebration video',
     src: 'https://www.youtube.com/embed/kAJZlXye-08?autoplay=1',
