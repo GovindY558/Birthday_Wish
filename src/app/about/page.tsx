@@ -26,7 +26,7 @@ export default function AboutPage() {
             <Card className="bg-card/80 backdrop-blur-sm">
                 <CardContent className="p-8 md:p-12 space-y-8">
                     <div className="relative aspect-[2/1] w-full max-w-4xl mx-auto rounded-lg overflow-hidden shadow-lg">
-                        <Image src="/your_mine.jpg" alt="A banner representing a story" fill sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" className="object-cover" data-ai-hint="love story" />
+                        <Image src="/you_mine.jpg" alt="A banner representing a story" fill sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" className="object-cover" data-ai-hint="love story" />
                     </div>
                     <div className="font-body text-lg text-foreground/90 max-w-3xl mx-auto space-y-6 text-center">
                         <p>I never imagined I’d meet you like this. You came so close to me that I didn’t even realize when you became a part of me. I still remember the first time you hugged me—it’s something I can never forget. Even now, it feels unbelievable that you were the one who wrapped me in your arms.it lingers like a beautiful dream.</p>
