@@ -15,6 +15,13 @@ import { BackgroundMusic } from '@/components/background-music';
 const videos = [
   {
     id: 'special',
+    title: "Today's Special",
+    thumbnail: '/cake.jpg',
+    hint: 'celebration video',
+    src: 'https://www.youtube.com/embed/a3n7aGG7dag?autoplay=1',
+  },
+  {
+    id: 'special',
     title: "This Year's Special",
     thumbnail: '/frame.jpg',
     hint: 'celebration video',
