@@ -16,7 +16,7 @@ const videos = [
   {
     id: 'special',
     title: "Today's Special",
-    thumbnail: '/cake.jpg',
+    thumbnail: '/cake.webp',
     hint: 'celebration video',
     src: 'https://www.youtube.com/embed/a3n7aGG7dag?autoplay=1',
   },
