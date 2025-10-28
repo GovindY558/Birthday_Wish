@@ -14,13 +14,6 @@ import Image from 'next/image';
 const videos = [
   {
     id: 'special',
-    title: "Today's Special",
-    thumbnail: '/cake.webp',
-    hint: 'celebration video',
-    src: 'https://www.youtube.com/embed/a3n7aGG7dag?autoplay=1',
-  },
-  {
-    id: 'special',
     title: "This Year's Special",
     thumbnail: '/frame.jpg',
     hint: 'celebration video',
