@@ -54,6 +54,17 @@ export default function LetterPage() {
             <p className="mt-4 text-center font-body text-lg max-w-prose">Just like the note in this photo says... this little flower is for my love. It's another piece of my heart that I'm holding onto for you..</p>
           </RevealCard>
         </StorySection>
+
+        <StorySection title="Click to read your absence for me">
+          <RevealCard
+            coverContent={<p className="text-lg">Apki Yaaden Mujhe Jine Nhi Deti</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/missyou.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">I miss you every day, in the smallest moments — in silence, in thoughts, in all the things I never say out loud.. Miss you Meri Himmat</p>
+          </RevealCard>
+        </StorySection>
       
       </main>
       <PageFooter />
