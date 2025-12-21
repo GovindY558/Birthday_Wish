@@ -60,9 +60,53 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Apki Yaaden Mujhe Jine Nhi Deti</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/missyou.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/missyou_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">I miss you every day, in the smallest moments — in silence, in thoughts, in all the things I never say out loud.. Miss you Meri Himmat</p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="For Part-2 ,Click to continue">
+          <RevealCard
+            coverContent={<p className="text-lg">Haa, Mai Roj marta hu...Apke Liye</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/missyou_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Kuchh samjh nhi ataa hai, Bas etna hai ki --- Miss you a lot Meri Himmat</p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Bas ek Baar aur Mehnat Kar do na Babu">
+          <RevealCard
+            coverContent={<p className="text-lg">Bhagwan ne bhi ekdam choose karke mujhe dia</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/missyou_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Aur Always Miss hi karunga mai, Aur uske alava mere pass option hi kya hai na --  Meri Himmat</p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Merry Chritmas My Secret Santa Clause 🤶 ">
+          <RevealCard
+            coverContent={<p className="text-lg">Haa, Meri Santa 🤶 to Aap hi ho ☺ </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/chritmas_11.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Wishing you a Christmas full of gentle moments, soft happiness, and everything that makes you feel safe and cared for. Merry Christmas 🎄✨</p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Really, You are my Gift 📦 For 🤶 ">
+          <RevealCard
+            coverContent={<p className="text-lg">You already gifted me many more ☺ </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/chritmas_22.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">It is a time to slow down, smile a little more, and appreciate the warmth around us. I hope this Christmas brings you peace in your heart, comfort in your thoughts, and reasons to smile in the small moments.. Meri Santa Clause 🎄✨</p>
           </RevealCard>
         </StorySection>
       
