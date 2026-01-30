@@ -198,6 +198,28 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+        <StorySection title="Happy 1st Love U-Turn Day Babu 🥹  ">
+          <RevealCard
+            coverContent={<p className="text-lg">Mai apke sath Hamesha Rahunga Babu, Aap Raho ya na  </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/1st_year.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Haa,Aaj hame pure 1saal hogye Babu sath hote huye,aur yakin nhi hota ki sach me 1year ho gye 🥹🥹🥹</p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Really, Ye din mere zindagi ka sabe bada aur khushnasib din hai">
+          <RevealCard
+            coverContent={<p className="text-lg">Aaj ka din mai kabhi nhi bhulunga </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/1st_year1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really Babu 🥹 Aaj ka din mere liye bahot bahot jyada special hai,Ye mai kaise bhul sakta hu,meri zindagi me ap jo ayi thi aur oo moment aur oo kapde bhi yaad hai apne kya pahena tha Babu 🥹 (Parrot Color ki Kurti) Love You Meri Jaan 🥹♥ </p>
+          </RevealCard>
+        </StorySection>
+
       
       </main>
       <PageFooter />
