@@ -269,7 +269,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Kash ap mere pass hoti to mai apko apne hath se khilata</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/Danna.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/Danaa.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Really bahot testy hai ye , ab mere nashib me to nhi ye,varna apko jarur lake khilata mai,But kabhi try karna ap mere kahne pe,Sayad apko bhi testy lage Babu</p>
           </RevealCard>
