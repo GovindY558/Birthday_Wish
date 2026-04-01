@@ -238,7 +238,7 @@ export default function LetterPage() {
             <div className="relative w-full max-w-2xl">
               <Image src="/2_april.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
-            <p className="mt-4 text-center font-body text-lg">Sach me, mai iss din aur Date ko aaj bahot miss kar rha hu, and apko bhi bahot miss kar rha hu Babu 😔, Because mujhe laga tha ki ham iss Date pe jarur milenge kaise  bhi karke But 😔 Really Miss You So Much Babu 😔 </p>
+            <p className="mt-4 text-center font-body text-lg">Sach me, mai iss din aur Date ko aaj bahot miss kar rha hu, and apko bhi bahot miss kar rha hu Babu 😔, Because mujhe laga tha ki ham iss Date pe jarur milenge kaise  bhi karke But 😔 Really Miss You So Much Babu 😔</p>
           </RevealCard>
         </StorySection>
 
