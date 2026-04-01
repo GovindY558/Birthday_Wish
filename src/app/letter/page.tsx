@@ -231,6 +231,17 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+        <StorySection title="Our First Outdoor Meeting Same Day Back 1 Year">
+          <RevealCard
+            coverContent={<p className="text-lg">Aaj ke just 1 saal pahale ham same Date pe Mile the Babu </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/2_april.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Sach me, mai iss din aur Date ko aaj bahot miss kar rha hu, and apko bhi bahot miss kar rha hu Babu 😔, Because mujhe laga tha ki ham iss Date pe jarur milenge kaise  bhi karke But 😔 Really Miss You So Much Babu 😔 </p>
+          </RevealCard>
+        </StorySection>
+
       
       </main>
       <PageFooter />
