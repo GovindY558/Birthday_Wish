@@ -220,6 +220,39 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+        <StorySection title="Rose For You Babu 🌹">
+          <RevealCard
+            coverContent={<p className="text-lg">Ye Gulab koi Aam Gulab nhi hai Babu</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/rose.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Sachi me, Ye Gulab bahot khash Gulab hai mere liye apko dena, Because maine khud ke kamai se diya hua hai apko, aisa feel hota hai mujhe, isliye mujhe bahot happiness hoti hai ise leke Babu 😊 Thank You For Accepting This Beautiful Heart ❤  From me to most Beautiful Lady 😊 in the World 🌏 </p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Peruu For You But 😔">
+          <RevealCard
+            coverContent={<p className="text-lg">Mujhe apse ye zindagi bhar sikayat rahegi Babu 😔 </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/rose.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Ab mai apko kya hi bolu 😔, Bas etna hi kahunga ki maine apke liye ye bahot pyar se aur feelings ke sath leke aya tha mai Babu 😔 But Sorry 😔 </p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Ye Churiyan, Apke liye hi Hain Babu 😊">
+          <RevealCard
+            coverContent={<p className="text-lg">Jo mujhe khud apko 1 saal se dena tha yrrr...</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/Churiyan.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Apko yaad hai, Apne mujhe khud bola, aur mujhe ye etna acha laga ki mai apko bta bhi nhi sakta hu really, Apka hakk jatana mere upar bahot acha lagta tha mujhe Babu 😊 </p>
+          </RevealCard>
+        </StorySection>
+
         <StorySection title="Apki Bahot Yad Ati Hai Babu 😔">
           <RevealCard
             coverContent={<p className="text-lg">Aap mere Dimag me ek cassette ki tarah chalti ho Babu 😔 </p>}
