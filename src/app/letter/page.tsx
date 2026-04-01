@@ -231,6 +231,17 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+        <StorySection title="Ye Danna Apke Liye hi hai Babu">
+          <RevealCard
+            coverContent={<p className="text-lg">Kash ap mere pass hoti to mai apko apne hath se khilata</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/Danna.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really bahot testy hai ye , ab mere nashib me to nhi ye,varna apko jarur lake khilata mai,But kabhi try karna ap mere kahne pe,Sayad apko bhi testy lage Babu</p>
+          </RevealCard>
+        </StorySection>
+
         <StorySection title="Our First Outdoor Meeting Same Day Back 1 Year">
           <RevealCard
             coverContent={<p className="text-lg">Aaj ke just 1 saal pahale ham same Date pe Mile the Babu </p>}
