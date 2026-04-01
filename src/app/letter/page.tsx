@@ -220,6 +220,17 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+        <StorySection title="Apki Bahot Yad Ati Hai Babu 😔">
+          <RevealCard
+            coverContent={<p className="text-lg">Aap mere Dimag me ek cassette ki tarah chalti ho Babu 😔 </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/Yaaden_6.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really, Mai apko bahot bahot jyada miss karta hu,mai apko socha hi nhi, na mai apko yaad karta hu, ap mere dimag me kisi film ki tarah bas gyi ho jo ki 24*7 chalti rahti ho, Etna even koi film bhi nhi play hogi Babu 😔 </p>
+          </RevealCard>
+        </StorySection>
+
       
       </main>
       <PageFooter />
