@@ -236,7 +236,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Mujhe apse ye zindagi bhar sikayat rahegi Babu 😔 </p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/rose.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/peruu.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Ab mai apko kya hi bolu 😔, Bas etna hi kahunga ki maine apke liye ye bahot pyar se aur feelings ke sath leke aya tha mai Babu 😔 But Sorry 😔 </p>
           </RevealCard>
@@ -264,7 +264,7 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
-        <StorySection title="Ye Danna Apke Liye hi hai Babu">
+        <StorySection title="Ye Danaa Apke Liye hi hai Babu">
           <RevealCard
             coverContent={<p className="text-lg">Kash ap mere pass hoti to mai apko apne hath se khilata</p>}
           >
