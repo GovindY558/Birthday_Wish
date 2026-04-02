@@ -286,6 +286,17 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+        <StorySection title="Barish, Mai Aur Apki Yaaden Babu 😔">
+          <RevealCard
+            coverContent={<p className="text-lg">Aaj maine apko bahot miss kiya 2bajke 6mnt se 6pm sham tak,ek ek pal pure zindagi ke brabar lag rha tha 😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/barish.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really Mai apke call orr msg ka wait karta rah gya but kuchh bhi nhi aya Babu 😔, Fir socha kya pta apko yaad bhi hai ki nhi aaj ka din 😔,Mere liye aap aur apki yaaden bahot mayane rakhti hain yrr 😔 Aur mai bhi apko msg kar sakta tha but mere pass koi option nhi tha,kaise karta apko mai 😔 maine apko bahot miss kiya - Apki kasam Dear Love ♥ 😔</p>
+          </RevealCard>
+        </StorySection>
+
       
       </main>
       <PageFooter />
