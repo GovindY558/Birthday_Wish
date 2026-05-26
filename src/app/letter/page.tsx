@@ -297,6 +297,299 @@ export default function LetterPage() {
           </RevealCard>
         </StorySection>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <StorySection title="Life me Clarity Bahot Zaruri hai - 1">
+          <RevealCard
+            coverContent={<p className="text-lg">Life me clear hona bahot jaruri hai, aur apne mujhe...😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/clarity_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really yar,vaise bhi apne mujhe bahot bar apne raste se clear kiya hai, bahot sare hints diye tha ki mai khud ba khud clear ho jaun..lekin vahi hai na kki --- Dil hai ki Manta nhi............</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="Kuchh thoda aur hai, clarity - 2">
+          <RevealCard
+            coverContent={<p className="text-lg">Thoda beman se hi padh lena ap....</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/clarity_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really Maine apke iss bar ke tarike se sach me, Apse milna nasib to nhi hua..lekin bahot kuchh sikha gya</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="Apse na milke bahot kuchh sikha maine Babu 😔">
+          <RevealCard
+            coverContent={<p className="text-lg">Apse to nhi mila, lekin sayad mai iss bar apne apse to mil gya Babu 😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/clarity_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Ap to bahot pahale se apne side se clear thi, bas fasa aur unclear to mai tha jo aaj tak nhi ho paya tha but ab....😔</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="Fir Bhi ek ummeed thi ki...1">
+          <RevealCard
+            coverContent={<p className="text-lg"> ooo ummeed bhi fiki padd gyi meri apke aage Babu😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/umeed_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Mujhe lga tha ki---------......................................................................................................kya likhu kuchh samjh me hi nhi arha hai mujhe yar sach me....😔</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+
+
+        <StorySection title="Maine sapne me bhi nhi socha tha ki aisa hoga...2">
+          <RevealCard
+            coverContent={<p className="text-lg">Din me Tare dikha diye ap to yar Babu....</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/umeed_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Mere pass sabd etne hai ki puri zindagi kam padd jaye likhane ke liye...lekin mai aaj bhi kal ke jaise blank hua pada hu Babu 😔</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+
+        <StorySection title="lekin sach bat hai...ummede hamesha taklif hi deti hai...3">
+          <RevealCard
+            coverContent={<p className="text-lg">maine ye suna tha ki pairo tale zamin khisak jati hai kabhi....Lekin apne to mere ankho tale andhera la diya tha Babu kal...</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/umeed_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really, Apne to mera Noor hi chhin liya yar...ek bar ke liye jaan mangti to ham de dete yar Babu 😊.....................But apne to 😔</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="Apko pata hai ???????????????????????????????...4">
+          <RevealCard
+            coverContent={<p className="text-lg">Apka na rukna hi mere sare sawalo ka javab ban gya</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/umeed_4.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really Mujhe apke end se har ek confusion ka javab apka na ana de gya Babu 😔 ........</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="sayad mai aur meri ummede dono galat thi...5">
+          <RevealCard
+            coverContent={<p className="text-lg">Kyuki mai iss ummedon me bahot baar maar khaya hu...aur...........</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/umeed_5.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Aur ooo mar koi aur nhi, apne hi har vakt diya hai Babu 😔 </p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="Kuchh galat ummed hogi to maaf karna...6">
+          <RevealCard
+            coverContent={<p className="text-lg">Sayad har bar galat hi rahi ho😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/umeed_6.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">iske liye apne aisa kiya mere sath Babu, vaise bahot achha ki ap sach me, mujhe apne meri aukat dikhai...Thanks Babu 😊 </p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="Mausam ne to Dil kholke mera Welcome kiya But....">
+          <RevealCard
+            coverContent={<p className="text-lg">Lekin jise karna chahiye tha unhone to mere pagalpan ka intehan le liya....</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/mausam_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really, mujhe kitna acha ye lga ki mausam ne mera ache se swagat kiya aur vidai bhi, lekin apne to mujhe ek bhikhh ka tukda bhi nhi dala...butt mujhe apka ye welcome karne ka tarika bhi bahot acha laga Babu 😊... I am really Happy For You Babu 😊 </p>
+          </RevealCard>
+        </StorySection>
+
+
+
+        <StorySection title="Hatna etna asan hota to, Kal ap mujhe aise ajnabi ke jaise chhodke nhi jati">
+          <RevealCard
+            coverContent={<p className="text-lg">SAb kuchh jante huye bhi kaise kar leti ho ap Yar Babu 😔 </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/hatna_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Apko takilfe pata hai fir bhi apne aisa kiya, lekin kyu yar Babu Kyu ???????????????????????</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="Kya Sach me etna Asan hai ???">
+          <RevealCard
+            coverContent={<p className="text-lg">Babu😔, Apse maine manga hi aisa kya tha jo ap mujhe bar bar ye bat bolti rahi yar 😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/hatna_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really , Sayad bahot jyada asan hai..iske liye ap mujhe ye bat bar bar bar bar bar bar bolti thi na.....ap bolti ho mtlb hoga ... I  Accepted .</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="Chaliye, Ab mai sach me hi hatt jaunga....">
+          <RevealCard
+            coverContent={<p className="text-lg">Hatt jaunga mtlb ki - Marr jaunga aisa, aur apko kya hi ????</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/hatna_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Really,etna samjh me aya ki apko kuch nhi hone wala hai mere vajah se, kuchh bhi nhi...iske liye ap mujhe etna asani se bol deti ho na ???😔</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+        <StorySection title="एक आखिरी पत्र आपके लिये">
+          <RevealCard
+            coverContent={<p className="text-lg">Ye mera last letter hai apke liye, ab iske baad nhi ayega kuch mera Sandesh apko Babu😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/last_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Ye mera last Khat hai...mujhe sach me samjh agya ki efforts matter nhi karte hai jab samne wala insan hamara na ho tab......baki to karte hi hai...ham kisi ek ki vajah se pure world ko to blame nhi kar sakte na???</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="Apse kiya hua promise mai jarur pura karunga">
+          <RevealCard
+            coverContent={<p className="text-lg">aur oo sab mujhe hi pta rahega ab....kyuki apne to mera sath bahot hi asani se chhod diya na Babu 😔 </p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/last_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Kya bolu yar Babu.................mai to abhi bhi rah rah ke blank ho ja rha hu yar 😔 </p>
+          </RevealCard>
+        </StorySection>
+
+
+
+        <StorySection title="Akhiri Letter aisa hota hai...Jaise akhirh saans ho">
+          <RevealCard
+            coverContent={<p className="text-lg">Aisa lag rha ye ki ab meri saans bhi band ho jayegi isi ke sath me</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/last_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">kisi ko ye akhiri bar bye bolna, kisi ko ek last time msg karna, kisi ko ek last time dekhna, jaisa feel hota hai na, use bhi bada dard kisi ko last time khat likhane ka hota hai Babu, because ham khat me sirf words nhi likhate hai, ham khat me apni feelings likhate hai jo har bar aur har ek words ke liye alag alag hoti hai Babu 😔</p>
+          </RevealCard>
+        </StorySection>
+
+        <StorySection title="Mujhe apne nazar me bura hi rahne dena aap">
+          <RevealCard
+            coverContent={<p className="text-lg">Vaise rahne dena kya, mai to hu hi sabke nazro me, aur ab to apne bhi apna liya hai same Babu</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/bura_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Aur ye apko bahot ache se meri yado se dur rakhega bahot jyada .....ap hamesha bura hi likhna apne nazaro me mujhe .........</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="Guru to hona hi chahiye">
+          <RevealCard
+            coverContent={<p className="text-lg">Akhir Gurur kyu na karo ap ? Apke pass mujhse acha sab kuchh hai</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/gurur.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Aur karna bhi chahiye Babu, aur ap karo........Lekin ek bar yaad rakhna ki...kisi ka Dil dukha ke Gurur nhi kiya karte Mohtarma....</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="Har bar apko acha laga hai mere feelings ke sath ???? Kitna pyar se laya tha mai">
+          <RevealCard
+            coverContent={<p className="text-lg">Apko adat si ho gyi hogi mere efforts aur feelings ke sath aisa karte karte na😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/kalava.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Apke liye apne mandir se laya tha, lekin apne use dekhna tak nhi chaha ki.....etna to apko pta hona chahiye ki gavn gya hai to mere liye kuchh na kuchh to laya hi hoga ooo.....lekin apko to bas mai Hawasi lagta tha na.......Babu..........</p>
+          </RevealCard>
+        </StorySection>
+
+
+
+
+        <StorySection title="Lekin ye Tarika acha nhi tha Babu 😔">
+          <RevealCard
+            coverContent={<p className="text-lg">Aur bhi tarike ho sakte tha Babu😔</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/tarika.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">kisi ke liye, kisi aur ka dil dukhana sayad apko pasand hai...kya rasta apnaya hai na apne Babu 😔 apne ek bar bhi nhi socha hoga ki aur raste ho sakte hain na ??? But ???????????</p>
+          </RevealCard>
+        </StorySection>
+
+
+        <StorySection title="अलविदा मेरी रानी 😊">
+          <RevealCard
+            coverContent={<p className="text-lg">Chaliye ab chalta hu, mera Samay pura hua apke pyar ke liye...</p>}
+          >
+            <div className="relative w-full max-w-2xl">
+              <Image src="/alvida.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+            </div>
+            <p className="mt-4 text-center font-body text-lg">Finally, Ap wali maine iss bar kar di Babu.....ab to ap khush hogi na...mujhe apka msg ache se yad hai.....ki--- apne life khush rho....koshish karunga......Bas ap khush ho na Bas....Always Be Happy 😊 Babu 😊 </p>
+          </RevealCard>
+        </StorySection>
+
       
       </main>
       <PageFooter />
