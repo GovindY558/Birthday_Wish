@@ -461,7 +461,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">SAb kuchh jante huye bhi kaise kar leti ho ap Yar Babu 😔 </p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/hatna_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/Hatna_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Apko takilfe pata hai fir bhi apne aisa kiya, lekin kyu yar Babu Kyu ???????????????????????</p>
           </RevealCard>
@@ -473,7 +473,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Babu😔, Apse maine manga hi aisa kya tha jo ap mujhe bar bar ye bat bolti rahi yar 😔</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/hatna_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/Hatna_2.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Really , Sayad bahot jyada asan hai..iske liye ap mujhe ye bat bar bar bar bar bar bar bolti thi na.....ap bolti ho mtlb hoga ... I  Accepted .</p>
           </RevealCard>
@@ -485,7 +485,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Hatt jaunga mtlb ki - Marr jaunga aisa, aur apko kya hi ????</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/hatna_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/Hatna_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Really,etna samjh me aya ki apko kuch nhi hone wala hai mere vajah se, kuchh bhi nhi...iske liye ap mujhe etna asani se bol deti ho na ???😔</p>
           </RevealCard>
@@ -523,7 +523,7 @@ export default function LetterPage() {
             coverContent={<p className="text-lg">Aisa lag rha ye ki ab meri saans bhi band ho jayegi isi ke sath me</p>}
           >
             <div className="relative w-full max-w-2xl">
-              <Image src="/last_3.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
+              <Image src="/last_3_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">kisi ko ye akhiri bar bye bolna, kisi ko ek last time msg karna, kisi ko ek last time dekhna, jaisa feel hota hai na, use bhi bada dard kisi ko last time khat likhane ka hota hai Babu, because ham khat me sirf words nhi likhate hai, ham khat me apni feelings likhate hai jo har bar aur har ek words ke liye alag alag hoti hai Babu 😔</p>
           </RevealCard>
@@ -537,18 +537,6 @@ export default function LetterPage() {
               <Image src="/bura_1.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
             <p className="mt-4 text-center font-body text-lg">Aur ye apko bahot ache se meri yado se dur rakhega bahot jyada .....ap hamesha bura hi likhna apne nazaro me mujhe .........</p>
-          </RevealCard>
-        </StorySection>
-
-
-        <StorySection title="Guru to hona hi chahiye">
-          <RevealCard
-            coverContent={<p className="text-lg">Akhir Gurur kyu na karo ap ? Apke pass mujhse acha sab kuchh hai</p>}
-          >
-            <div className="relative w-full max-w-2xl">
-              <Image src="/gurur.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
-            </div>
-            <p className="mt-4 text-center font-body text-lg">Aur karna bhi chahiye Babu, aur ap karo........Lekin ek bar yaad rakhna ki...kisi ka Dil dukha ke Gurur nhi kiya karte Mohtarma....</p>
           </RevealCard>
         </StorySection>
 
@@ -586,7 +574,7 @@ export default function LetterPage() {
             <div className="relative w-full max-w-2xl">
               <Image src="/alvida.png" alt="A heartfelt letter" width={800} height={1067} className="rounded-lg shadow-lg object-contain" data-ai-hint="handwritten letter" />
             </div>
-            <p className="mt-4 text-center font-body text-lg">Finally, Ap wali maine iss bar kar di Babu.....ab to ap khush hogi na...mujhe apka msg ache se yad hai.....ki--- apne life khush rho....koshish karunga......Bas ap khush ho na Bas....Always Be Happy 😊 Babu 😊 </p>
+            <p className="mt-4 text-center font-body text-lg">Akhir Gurur kyu na karo ap ? Apke pass mujhse acha sab kuchh hai,Aur karna bhi chahiye Babu, aur ap karo........Lekin ek bar yaad rakhna ki...kisi ka Dil dukha ke Gurur nhi kiya karte Mohtarma....Finally, Ap wali maine iss bar kar di Babu.....ab to ap khush hogi na...mujhe apka msg ache se yad hai.....ki--- apne life khush rho....koshish karunga......Bas ap khush ho na Bas....Always Be Happy 😊 Babu 😊 </p>
           </RevealCard>
         </StorySection>
 
